@@ -1,16 +1,79 @@
-## Hi there 👋
+Hi, I'm Udit Saini
 
-<!--
-**Udit-Saini2/Udit-Saini2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web Developer | Diploma CSE Student
 
-Here are some ideas to get you started:
+I’m a passionate Computer Science student currently pursuing a Polytechnic Diploma in Computer Engineering. I love building clean, user-friendly web interfaces and improving my skills in programming every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🚀 Skills
+
+Frontend: HTML, CSS, JavaScript
+
+Programming: Python
+
+Tools & Platforms: Git, GitHub
+
+Other: Responsive Web Design, Basic UI/UX Understanding
+
+
+
+
+🏢 Internship Experience
+
+Web Development Intern — Solitaire Infyos Pvt. Ltd.
+
+Duration: 1 Month
+
+Worked on real-world web development tasks
+
+Gained experience with HTML, CSS, JavaScript
+
+Improved understanding of clean code & project structure
+
+Learned teamwork and professional workflow
+
+
+
+
+🎓 Education
+
+Diploma in Computer Engineering (CSE)
+2024–2027
+
+
+
+📜 Certifications
+
+Web Development Internship Certificate — Solitaire Infyos Pvt. Ltd.
+
+
+
+📂 Projects
+
+(Add these when ready — I can help you write them!)
+
+Portfolio Website
+
+Simple Calculator (HTML, CSS, JS)
+
+Python Mini Projects
+
+
+
+📫 Connect With Me
+
+Email: ns9468273@gmail.com
+
+Location: Delhi, India
+
+GitHub: Udit-Saini2
+
+
+⭐ What I’m Currently Doing
+
+Building strong frontend skills
+
+Working on small projects for my GitHub
+
+Preparing for internships & entry-level developer roles
