@@ -1,35 +1,40 @@
 Udit — Software Developer
+
 I am a software developer with hands-on experience in Python-based web applications and frontend development, focused on building secure, data-driven, and maintainable systems.
 My work reflects a practical engineering approach:
 understanding requirements, structuring logic properly, securing data, and adding analytics where it provides real value.
 I actively build and improve projects using industry-relevant tools and libraries, with a strong emphasis on clean code and real-world usability.
 
 Technical Competencies
+
 Programming & Web Technologies
-Python
-Streamlit
-HTML5
-CSS3
+Python,
+Streamlit,
+HTML5,
+CSS3,
 JavaScript
 
 Backend, Data & Security
-SQLite
-CSV
-JSON
+
+SQLite,
+CSV,
+JSON,
 bcrypt (secure password hashing)
 
 Data Processing & Analytics
-Pandas
-NumPy
-Plotly
+
+Pandas,
+NumPy,
+Plotly,
 Scikit-learn (Linear Regression)
 
 Tools & Engineering Skills
-PyCharm
-Git & GitHub
-Problem Solving
-Analytical Thinking
-Debugging
+
+PyCharm,
+Git & GitHub,
+Problem Solving,
+Analytical Thinking,
+Debugging,
 Application Structuring
 
 Additional Knowledge
@@ -43,6 +48,7 @@ Bachelor of Commerce (B.Com – Program)
 University of Delhi
 
 Certifications & Training
+
 Programming with Python 3.X — Simplilearn SkillUp (Verified)
 
 Web Designing Internship — Solitaire Infosys Pvt. Ltd.
@@ -52,6 +58,7 @@ Web Designing Certification
 
 
 Industry Experience
+
 Web Designing Intern
 Solitaire Infosys Pvt. Ltd.
 Completed a 4-week internship in the Web Designing department
@@ -63,12 +70,14 @@ Understanding professional development workflow
 Demonstrated strong work ethic, learning ability, and task ownership during training
 
 Key Project
+
 Expense Tracker Web Application
 Technology Stack:
 Python, Streamlit, SQLite, Pandas, Plotly, NumPy, Scikit-learn, CSV, JSON, bcrypt, SMTP
 A secure, analytics-enabled expense management system designed with real-world usage and data integrity in mind.
 
 Key Features
+
 Secure user authentication using bcrypt
 Persistent storage with SQLite
 Add, edit, and delete expense records
@@ -81,6 +90,7 @@ Clean, responsive interface built with Streamlit
 This project demonstrates backend logic, secure data handling, analytical thinking, and system design, going well beyond basic CRUD functionality.
 
 Current Focus
+
 Writing modular and maintainable Python code
 Improving backend architecture and data modeling
 Enhancing analytics and visualization features
