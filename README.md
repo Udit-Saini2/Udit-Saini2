@@ -1,4 +1,5 @@
 Expense Tracker Web Application
+
 A full-featured Expense Tracker web application built using Python and Streamlit.
 The application allows users to securely manage income, expenses, budgets, and financial insights through an interactive dashboard with persistent database storage.
 
@@ -41,16 +42,26 @@ Project Structure
 Copy code
 
 expense_tracker/
+
 │
-├── app.py                 # Main Streamlit application
+├── app.py        # Main Streamlit application
+
 ├── users.db               # User authentication database
+
 ├── expense.db             # Expense records
+
 ├── budget.db              # Budget data
+
 ├── finance.db             # Financial summaries
+
 ├── expenses.csv           # CSV export/import
+
 ├── receipts/              # Stored receipt files
+
 ├── .venv/                 # Virtual environment
+
 └── README.md              # Project documentation
+
 (Database files may vary based on runtime usage)
 
 Security Implementation
