@@ -5,9 +5,11 @@ My work reflects a practical engineering approach:
 understanding requirements, structuring logic properly, securing data, and adding analytics where it provides real value.
 I actively build and improve projects using industry-relevant tools and libraries, with a strong emphasis on clean code and real-world usability.
 
+
 Technical Competencies
 
 Programming & Web Technologies
+
 Python,
 Streamlit,
 HTML5,
