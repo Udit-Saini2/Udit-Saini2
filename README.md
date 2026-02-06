@@ -44,10 +44,12 @@ University of Delhi
 
 Certifications & Training
 Programming with Python 3.X — Simplilearn SkillUp (Verified)
+
 Web Designing Internship — Solitaire Infosys Pvt. Ltd.
+
 (4-week industry training with real-world development exposure)
 Web Designing Certification
-Python Programming & Development Training
+
 
 Industry Experience
 Web Designing Intern
