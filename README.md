@@ -38,7 +38,9 @@ Debugging,
 Application Structuring
 
 Additional Knowledge
+
 Artificial Intelligence
+
 
 Education
 Diploma in Computer Science Engineering (CSE)
@@ -46,6 +48,7 @@ Deen Bandhu Sir Chotu Ram Government Polytechnic, Sampla, Haryana
 
 Bachelor of Commerce (B.Com – Program)
 University of Delhi
+
 
 Certifications & Training
 
@@ -97,9 +100,11 @@ Enhancing analytics and visualization features
 Preparing production-ready portfolio projects
 
 Contact
+
 Email: ns9468273@gmail.com
+
 Phone: +91 9821367357
-Open to internships, junior software developer roles, and web development opportunities.
 
 Professional Mindset
+
 I believe strong software developers are built through consistent practice, real-world implementation, and continuous improvement, not shortcuts or surface-level learning
